@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 50px;
+    background-color: #282c34;
+    color: white;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#clock {
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 20px;
+    background-color: #444;
+    padding: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
